@@ -1161,7 +1161,8 @@ h6 {
     max-width: 345px;
     width: 100%;
     text-align: center;
-    background: var(--thm-black);
+    /* background: var(--thm-black); */
+    background: #f5f0e99c;
     border-right: 1px solid rgba(255, 255, 255, 0.15);
     padding: 30px 0;
 }
