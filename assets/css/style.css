@@ -2233,7 +2233,7 @@ h6 {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(35, 42, 33, 0.6);
+    background-color: rgba(35, 42, 33, 0.35);
     z-index: 1;
 }
 .banner-carousel-two .slide-item .image-layer {
@@ -2326,8 +2326,8 @@ h6 {
     position: relative;
     display: inline-block;
     margin: 0;
-    font-size: 150px;
-    line-height: 170px;
+    font-size: 60px;
+    line-height: 100px;
     color: #ffffff;
     font-weight: 700;
     opacity: 0;
